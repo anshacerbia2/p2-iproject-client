@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "axios": "^0.27.2",
+    "firebase": "^9.9.4",
     "pinia": "^2.0.21",
     "sweetalert2": "^11.4.32",
     "vue": "^3.2.38",
